@@ -21,3 +21,5 @@ rendi la pagina responsive, in modo che su mobile e tablet le foto si dispongano
 Note
 Non siete obbligati a usare Bootstrap: siete liberi di decidere come gestire lo stile :faccia_leggermente_sorridente:
 Buon Lavoro e buon divertimento!
+
+FINITO MILESTONE 3 E ESERCIZIO TEMRINATO CON BONUS 
