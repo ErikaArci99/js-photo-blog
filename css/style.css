@@ -20,10 +20,17 @@ body{
     font-optical-sizing: auto;
 }
 
-/* card img */
+/* card */
 .card-content{
     width: auto;
     height: auto;
+}
+
+.card-content:hover{
+    transform: scale(1.05) rotate(10deg);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+    transition: 0.5s;
+    cursor: pointer;
 }
 
 .card-img{
@@ -41,6 +48,7 @@ body{
     height: auto;
 }
 
+/* ID */
 #container-overlay{
     background-color: black; 
     opacity: 0.5;
