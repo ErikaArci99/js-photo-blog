@@ -1,5 +1,8 @@
 // recupero elementi del DOM
 const div = document.getElementById('div');
+const containerOverlay = document.getElementById('container-overlay');
+const imgOverlay = document.getElementById('img-overlay');
+const closeButton = document.getElementById('button');
 
 // dichiaro variabili
 const endpoint = "https://lanciweb.github.io/demo/api/pictures/"
