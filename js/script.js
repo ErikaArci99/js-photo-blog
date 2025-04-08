@@ -36,6 +36,12 @@ const recuperoDati = () => {
                     imgOverlay.classList.remove('d-none');
                 });
             });
+            // bottone chiusura
+            closeButton.addEventListener('click', function () {
+                closeButton.classList.add('d-none');
+                containerOverlay.classList.add('d-none');
+                imgOverlay.classList.add('d-none');
+            });
         });
 };
 

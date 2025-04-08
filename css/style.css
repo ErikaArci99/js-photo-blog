@@ -68,8 +68,8 @@ body{
 
 #img-overlay{
     background-color: violet;
-    width: 500px;
-    height: 500px;
+    width: 50%;
+    height: auto;
     position: absolute;
     top: 165px;
     left: 50%;
